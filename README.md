@@ -6,6 +6,7 @@ things to research:
 what is an abstract class?
 
 what is dependency injection?
+
 what is a class factory
 how can you store data without using a database
 what is this?
