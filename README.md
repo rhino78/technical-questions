@@ -3,8 +3,8 @@ I've been collecting all the technical questions that I've been asked throughout
 
 
 things to research:
-what is an abstract class
-what is dependency injection
+what is an abstract class?
+what is dependency injection?
 what is a class factory
 how can you store data without using a database
 what is this?
